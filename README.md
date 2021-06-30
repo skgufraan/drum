@@ -1,3 +1,3 @@
 # drum
 
-skgufraan.github.io/skgufraan
+https://skgufraan.github.io/drum/
